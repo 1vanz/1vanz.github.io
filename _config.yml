@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiaoyuan"
-  avatar           : "images/IMG_6388.JPG"
+  avatar           : "IMG_6388.JPG"
   bio              : "MSc student in system design engineering. University of California Berkely, USA"
   location         : "Berkely, USA"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  #
+  github           :  "https://github.com/1vanz"
   google_plus      :
   keybase          : 
   instagram        : "https://instagram.com/nameis_xiaoyuan?igshid=YmMyMTA2M2Y="
