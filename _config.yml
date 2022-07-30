@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Xiaoyuan"
-  avatar           : "profile.png"
+  avatar           : "images/photo.jpeg"
   bio              : "MSc student in system design engineering. University of California Berkely, USA"
   location         : "Berkely, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            :  "nameis.xiaoyuan@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :  #"academicpages"
   google_plus      :
-  keybase          :
-  instagram        :
+  keybase          : 
+  instagram        : "https://www.instagram.com/nameis_xiaoyuan/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :  #"replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        :
 
 
