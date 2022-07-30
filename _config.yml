@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiaoyuan"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "MSc student in system design engineering. University of California Berkely, USA"
   location         : "Berkely, USA"
   employer         :
