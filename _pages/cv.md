@@ -13,7 +13,7 @@ redirect_from:
 
 ------
 
-* **B.S. in Southwest Jiaotong University, China*
+* **B.S. in Southwest Jiaotong University, China**
 * **B.S. in University of Leeds, UK**
 * **MSc in University of California Berkely, USA (Expected)**
 
@@ -28,7 +28,6 @@ redirect_from:
 * **Strength of T-section Beams based on Domestic UHPC**
 * **2020 ASCE Concrete Canoe Competition**
 
-<font size=8>For detailed research experience, see ‘Research’</font>
 
 
 
@@ -37,16 +36,16 @@ redirect_from:
 ------
 
 **SINOPEC Petroleum Engineering Zhongyuan Co. Ltd**
-<p align="right">Zhengzhou, China</p>
-<p align="right">Jun 2021 - Aug 2021</p>
+
 **Project Management Assistant of Iraq Oil Field Development Project**
+
 *Participated in writing the report of Project Execution Plan and understood the overall process of an international project.*
 
-- Authored the report on Value Improvement Procedure including the specific measurements before, during and
+* Authored the report on Value Improvement Procedure including the specific measurements before, during and
 
   after excavation, and presented the report.
 
-- Responsible for the English version of the 50-page report on the Front-End Engineering Design.
+* Responsible for the English version of the 50-page report on the Front-End Engineering Design.
 
 **Structural Engineer Assistant, Structural Design Institute**
 
@@ -107,6 +106,6 @@ redirect_from:
 
 * **Computing skills:** Python, LaTex, Matlab
 
-* **Interests:** Volleyball (major setter for 6 years), Running (half marathon runner), literature, art
+* **Interests:** Volleyball (major setter for 6 years), Running (half marathon runner), Literature, Art
 
 
