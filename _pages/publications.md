@@ -25,15 +25,15 @@ Advisor: Professor Yaohua Xiong
 
 - Research on modified mortar, a critical element of pavement material, to enhance the hydroscopicity of asphalt, intended to cool down the road surface and further mitigate the urban heat island effect. 
 
-1. - Based on good hydroscopicity and sustainable features, selected five types of supplementary material such as super absorbent polymer (SAP), and agricultural water-retaining agent. Designed 18 sets of check experiments of various supplementary material concentration
+   - Based on good hydroscopicity and sustainable features, selected five types of supplementary material such as super absorbent polymer (SAP), and agricultural water-retaining agent. Designed 18 sets of check experiments of various supplementary material concentration
 
-2. - Designed concentration gradient experiments to gradually narrow the concentration gradient (from 5% to 0.5%) and obtained 526 specimens of mortar cube. Tested specimens’ mechanical properties, such as water-absorption and re-absorption, compressive strength, and rate of mass loss using high-precision dryer
+   - Designed concentration gradient experiments to gradually narrow the concentration gradient (from 5% to 0.5%) and obtained 526 specimens of mortar cube. Tested specimens’ mechanical properties, such as water-absorption and re-absorption, compressive strength, and rate of mass loss using high-precision dryer
 
-3. - Built a formula for relative hydroscopicity modification (RHM) based on Pavement Material Experimental Specification (JTG E20-2011) to value the modification effect
+   - Built a formula for relative hydroscopicity modification (RHM) based on Pavement Material Experimental Specification (JTG E20-2011) to value the modification effect
 
-4. - Analysed the test results on Matlab and Origin, which showed that SAP had the highest RHM in accordance with the previously built formula
+   - Analysed the test results on Matlab and Origin, which showed that SAP had the highest RHM in accordance with the previously built formula
 
-5. - Applied Orthogonal Experimental Design method for the optimal solution given by SAP, weighing the material scheme in three dimensions: RHM, cost and recycling rate (in and after use) to balance the performance, economy, as well as sustainability
+   - Applied Orthogonal Experimental Design method for the optimal solution given by SAP, weighing the material scheme in three dimensions: RHM, cost and recycling rate (in and after use) to balance the performance, economy, as well as sustainability
 
 - Awarded ‘Excellent Student Research Programme in SWJTU’ (top 5%)
 
@@ -45,7 +45,7 @@ Advisor: Professor Yaohua Xiong
 
 - Data analysis for the flexural performance of the domestic UHPC T-section beams, which are the main type for medium and large bridges, and which have great prospects in the infrastructure construction.
 
-1. - Collected 200 sets of data in 40 beam-bending experiments and investigated the anti-bending behaviours of five different stiffness states of concrete at critical points of beam
+   - Collected 200 sets of data in 40 beam-bending experiments and investigated the anti-bending behaviours of five different stiffness states of concrete at critical points of beam
    - Analysed data in Excel and Origin, and compared 25 simulated deflection curves with UHPC Domestic Specifications (GB T 31387-2015) to find the corresponding viable load at each point on different types of beams
    - Built a 3-D model in Revit to simulate the flexural performance of T-section beam of UHPC under typical loads to obtain the critical damping points
    - Found the optimal strength design schemes for five types of UHPC beams. Co-authored a 5000-word report
