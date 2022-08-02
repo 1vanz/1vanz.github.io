@@ -4,6 +4,10 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+
+{% include base_path %}
+
+
 ## **Modelling Urban Road Network for Transport Planning**
 
 ------
@@ -69,12 +73,3 @@ Advisor: Professor Yaohua Xiong
   - Prepared design proposal relating to construction and project management. Collaborated with teammates to prepare the content around construction design, and participated in the presentation online due to the COVID-19 pandemic
 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
