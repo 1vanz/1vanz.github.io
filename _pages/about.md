@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is a website about Xiaoyuan"
+title: "A website about Xiaoyuan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
