@@ -1,7 +1,7 @@
 ---
 title: 'My Blog Post'
 date: 2022-08-03
-permalink: /posts/blog_example.md
+permalink: /_posts/blog_example.md
 tags:
   - post example
   - learning
