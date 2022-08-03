@@ -11,3 +11,5 @@ This is a sample blog post. You can post anything you like, maybe record some le
 
 Blog headline
 ======
+The title of blog should be in 'year-month-date-Blogtitle' form so that it can be complied correctly.
+Permalink should also be modified in /posts/year/month/title form.
