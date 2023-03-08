@@ -13,7 +13,7 @@ main:
   #  url: /portfolio/
         
   - title: "Intern"
-    url: /_pages/intern.md/
+    url: /intern/
     
   - title: "CV"
     url: /cv/
