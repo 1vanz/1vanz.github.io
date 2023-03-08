@@ -35,17 +35,15 @@ redirect_from:
 
 ------
 
-**SINOPEC Petroleum Engineering Zhongyuan Co. Ltd**
+**Iraq Oil Field Development Project/ SINOPEC Petroleum Engineering Zhongyuan Co. Ltd**
 
-**Project Management Assistant of Iraq Oil Field Development Project**
+**Project Intern**
 
-*Participated in writing the report of Project Execution Plan and understood the overall process of an international project.*
+* Cooperated with a team of 10 and established Front-End Engineering Design Brochure.
 
-* Authored the report on Value Improvement Procedure including the specific measurements before, during and
+* Co-authored report on Value Improvement Procedure, including specific measurements before, during, and after excavation, and presented information to contractors.
 
-  after excavation, and presented the report.
-
-* Responsible for the English version of the 50-page report on the Front-End Engineering Design.
+* Responsible for presentation in the group.
 
 **Structural Engineer Assistant, Structural Design Institute**
 
@@ -54,7 +52,11 @@ redirect_from:
 * Undertook the design of an auxiliary pipe distribution station including the size, and calculation of reinforcement and deflection.
 
 * Conducted five field visits to witness the evolution of pipe gallery from steel structure to a building covered by reinforced concrete.
-
+**SWJTU Concrete Research Lab/ Southwest Jiaotong University**
+**Data Analyst**
+* Researched and validated 200 sets of data in 40 beam-bending experiments.
+* Extracted feasible data and fit them with models to predict a regular patterns of concrete fatigue.
+* Built 3-D model in Revit to simulate flexural performance of Tsection beam of UHPC.
 
 
 ### SELECTED AWARDS AND HONORS
@@ -92,7 +94,8 @@ redirect_from:
 * Managed the volley social media account and designed several propaganda posters.
 * Major setter of SWJTU Volleyball Non-Professional Team, being trained for over two years.
 
-
+### CERTIFICATES
+* **UC Berkeley Graduate Certificate of Applied Data Science**
 
 ### SKILLS
 
@@ -102,9 +105,9 @@ redirect_from:
 
   ILETS: 7.0 (W:6.0, R:7.5, L:6.5, S:7.0)
 
-* **Software:** Proficient with Autodest CAD, Revit, Rhino, SWMM
+* **Software:** Proficient with Autodest CAD, Revit, Rhino, SWMM, Spreadsheet, MS Office, Google Workspace
 
-* **Computing skills:** Python, LaTex, Matlab
+* **Computing skills:** Python, LaTex, Matlab, SQL, Machine Learning
 
 * **Interests:** Volleyball (major setter for 6 years), Running (half marathon runner), Literature, Art
 
