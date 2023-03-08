@@ -7,6 +7,28 @@ author_profile: true
 
 {% include base_path %}
 
+## **A Basic Software for Traffic Characteristics of Arterial Signalized Intersections**
+
+------
+
+- Build a software to procedural generate traffic flow density diagrams for one-way and two-way intersections.
+
+
+## **Analyzing Bird Strike Probability and Severity in US Airports**
+
+------
+
+- Use network science to obtain probability from a time-space view.
+- Use logistic regression to define the influential factors for severity.
+
+
+## **Procedural Generation of a Road Network Model for Transport Planning**
+
+------
+
+- Using road topological data to generate a road network model for transport planning.
+- Programmed a data structure in python for data derived in OpenStreetMap to procedurally generate the data model.
+
 
 ## **Modelling Urban Road Network for Transport Planning**
 
