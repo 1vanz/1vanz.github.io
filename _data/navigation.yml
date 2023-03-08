@@ -12,8 +12,8 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Internship"
-    url: /year-archive/
+  - title: "Intern"
+    url: /portfolio/
     
   - title: "CV"
     url: /cv/
