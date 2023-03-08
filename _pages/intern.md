@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Intern"
+permalink: /intern/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 ## Project Intern
 Iraq Oil Field Development Project/ SINOPEC Petroleum Engineering Zhongyuan Co. Ltd
 
