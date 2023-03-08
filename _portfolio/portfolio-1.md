@@ -1,6 +1,3 @@
----
-title: "Intern"
----
 ## Project Intern
 Iraq Oil Field Development Project/ SINOPEC Petroleum Engineering Zhongyuan Co. Ltd
 *05/2021 - 08/2021, Zhengzhou, China
