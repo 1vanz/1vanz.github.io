@@ -1,7 +1,16 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Intern"
 ---
+## Project Intern
+Iraq Oil Field Development Project/ SINOPEC Petroleum Engineering Zhongyuan Co. Ltd
+*05/2021 - 08/2021, Zhengzhou, China
+* Cooperated with a team of 10 and established Front-End Engineering Design Brochure.
+* Co-authored report on Value Improvement Procedure, including specific measurements before, during, and after excavation, and presented information to contractors.
+* Responsible for presentation in the group.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Data Analyst
+SWJTU Concrete Research Lab/ Southwest Jiaotong University
+*10/2020 - 06/2021, Chengdu, China
+* Researched and validated 200 sets of data in 40 beam-bending experiments.
+* Extracted feasible data and fit them with models to predict a regular patterns of concrete fatigue.
+* Built 3-D model in Revit to simulate flexural performance of Tsection beam of UHPC.
