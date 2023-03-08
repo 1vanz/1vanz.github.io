@@ -15,7 +15,7 @@ redirect_from:
 
 * **B.S. in Southwest Jiaotong University, China**
 * **B.S. in University of Leeds, UK**
-* **MSc in University of California Berkely, USA (Expected)**
+* **M.S. in University of California Berkely, US**
 
 
 
@@ -37,7 +37,7 @@ redirect_from:
 
 **Iraq Oil Field Development Project/ SINOPEC Petroleum Engineering Zhongyuan Co. Ltd**
 
-**Project Intern**
+*Project Intern*
 
 * Cooperated with a team of 10 and established Front-End Engineering Design Brochure.
 
@@ -53,7 +53,7 @@ redirect_from:
 
 * Conducted five field visits to witness the evolution of pipe gallery from steel structure to a building covered by reinforced concrete.
 **SWJTU Concrete Research Lab/ Southwest Jiaotong University**
-**Data Analyst**
+*Data Analyst*
 * Researched and validated 200 sets of data in 40 beam-bending experiments.
 * Extracted feasible data and fit them with models to predict a regular patterns of concrete fatigue.
 * Built 3-D model in Revit to simulate flexural performance of Tsection beam of UHPC.
